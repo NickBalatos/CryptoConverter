@@ -6,6 +6,9 @@ A Web-Based app made with streamlit, it's purpose is to help the user convert po
 1) Git: Ensure that Git is installed on your system. 
 2) Python: Make sure you have Python installed on your system.
 
+# API Used
+CoinCap	https://api.coincap.io/v2/assets
+
 # Steps
 1) Clone the Repository:
 Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the git clone command followed by the repository URL.
